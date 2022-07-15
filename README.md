@@ -1,2 +1,2 @@
-# CSC-110-Fundamental-Programming-I-
+# CSC-110
 Assignments from CSC 110: Fundamental Programming I
